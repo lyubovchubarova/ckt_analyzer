@@ -1,0 +1,3 @@
+t k 1SG.S/A 1SG.S 0
+mət mək 1PL.S/A 1PL.S/O 0
+t rkən 1SG.S/A IPFV 0

@@ -1,0 +1,4 @@
+i 2/3SG.S 0
+t PL 0
+tək 2PL.S/O 0
+rkən IPFV 0
